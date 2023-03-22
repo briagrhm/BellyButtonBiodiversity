@@ -1,0 +1,5 @@
+# Overview 
+The purpose of this project was to create a interactive dashboard that displayed three charts, with information about the top ten bacterial species found in the belly button.
+
+# Results 
+The results show a dashboard with three graphs a horizontal barchart, bubble chart and a gauge chart. Using the drop down menu a selector id can be chosen to look at information from all of the volunteers that participated in the study.
